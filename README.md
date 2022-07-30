@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashwanthm3012
 - 👀 I’m interested in Data Science, AI & ML and Web Development
-- 🌱 I’m currently learning Python and Java Script
+- 🌱 I’m currently learning Java
 - 📫 Reach me on dev.yashwanthm3012@gmail.com or cpython.yashwanthm3012@gmail.com
 
 <!---
