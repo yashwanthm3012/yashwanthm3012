@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Text2Flicks<br>🌱 I’m currently learning AI & ML<br>💬 Ask me about Tensorflow and Scikit-Learn<br>
+🔭 I’m currently working on Neural Architecture Search<br>🌱 I’m currently learning AI & ML<br>💬 Ask me about Tensorflow and Scikit-Learn<br>
 
 
 ## 🌐 Socials:
